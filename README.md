@@ -42,8 +42,8 @@ AluraFlix es una plataforma que simula un servicio de streaming de videos, donde
     npm start
     ```
 ## 🌐 Enlaces
-- **Página Web**: [AluraFlix en Vercel](#)
-- **API**: [API en Render](#)
+- **Página Web**: https://alura-flix-rzap.vercel.app/
+- **API**: https://aluraflix-api-hsvj.onrender.com/videos
 
 ## ⏳ Nota sobre la API
 Ten en cuenta que la API tiene una demora de aproximadamente un minuto debido a que se está utilizando Render para su despliegue.
